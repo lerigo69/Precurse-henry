@@ -1,2 +1,2 @@
 # Precurse-henry
-el es como crear repositorio del modulo dos de herry
+este proyecto es la prueba de repositorio 
